@@ -1,0 +1,41 @@
+img{
+	float: left;
+}
+.comp{
+	float: center;
+}
+.img-fluid{
+	float: center;
+	flex-wrap: 
+}
+.silvertech{
+	font-family: Blackadder ITC;
+	color: rgb(113, 152, 171);
+	}
+	.copyright{
+	text-align: center;
+	
+}
+.card-footer{
+	text-align: center;
+}
+
+#website:hover {
+	transform: scale(1.1);
+}
+#graphics:hover {
+	transform: scale(1.1);
+}
+#database:hover {
+	transform: scale(1.1);
+}
+
+#handshake{
+	float: center;
+}
+#quote{
+	text-align: right;
+}
+.blockquote-footer{
+	text-align: right;
+}
